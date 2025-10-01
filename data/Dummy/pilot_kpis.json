@@ -1,0 +1,272 @@
+{
+    "Barcelona_1": [
+        {
+            "name": "Number of participants engaged",
+            "theme": "Engagement",
+            "kpi_theme_id": "1",
+            "unit": "counts",
+            "baseline_value": 57.45,
+            "post_value": 143.59
+        },
+        {
+            "name": "reported risk factors affecting perceived road safety",
+            "theme": "road safety",
+            "kpi_theme_id": "2",
+            "unit": "counts",
+            "baseline_value": 93.2,
+            "post_value": 97.83
+        }
+    ],
+    "Barcelona_2": [
+        {
+            "name": "Engagement in co-creation",
+            "theme": "Engagement",
+            "kpi_theme_id": "1",
+            "unit": "counts",
+            "baseline_value": 35.6,
+            "post_value": 40.28
+        },
+        {
+            "name": "Increase in users of special services through DRT",
+            "theme": "Accessibility",
+            "kpi_theme_id": "3",
+            "unit": "counts",
+            "baseline_value": 25.81,
+            "post_value": 132.6
+        }
+    ],
+    "Heidelberg_1": [
+        {
+            "name": "Engagement in co-creation",
+            "theme": "Engagement",
+            "kpi_theme_id": "1",
+            "unit": "counts",
+            "baseline_value": 80.11,
+            "post_value": 112.05
+        },
+        {
+            "name": "Collaboration agreement",
+            "theme": "Engagement",
+            "kpi_theme_id": "1",
+            "unit": "counts",
+            "baseline_value": 22.06,
+            "post_value": 146.09
+        }
+    ],
+    "Heidelberg_2": [
+        {
+            "name": "Pedestrian and Cyclist counts",
+            "theme": "road safety",
+            "kpi_theme_id": "2",
+            "unit": "counts",
+            "baseline_value": 103.24,
+            "post_value": 47.6
+        },
+        {
+            "name": "Impact on traffic flows",
+            "theme": "road safety",
+            "kpi_theme_id": "2",
+            "unit": "Vehicles/24h",
+            "baseline_value": 1181.82,
+            "post_value": 1183.4
+        },
+        {
+            "name": "Conversion from impermeable to permeable/vegetated surface",
+            "theme": "Environment",
+            "kpi_theme_id": "4",
+            "unit": "%",
+            "baseline_value": 30.42,
+            "post_value": 52.48
+        }
+    ],
+    "Gothenburg_1": [
+        {
+            "name": "Engagement in co-creation",
+            "theme": "Engagement",
+            "kpi_theme_id": "1",
+            "unit": "Counts",
+            "baseline_value": 85.92,
+            "post_value": 86.21
+        },
+        {
+            "name": "Active mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "%",
+            "baseline_value": 61.19,
+            "post_value": 13.95
+        }
+    ],
+    "Gothenburg_2": [
+        {
+            "name": "Accessibility active modes",
+            "theme": "Accessibility",
+            "kpi_theme_id": "3",
+            "unit": "%",
+            "baseline_value": 29.21,
+            "post_value": 36.64
+        }
+    ],
+    "Budapest_1": [
+        {
+            "name": "Active mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "Counts",
+            "baseline_value": 510.46,
+            "post_value": 1042.21
+        },
+        {
+            "name": "Active mobility mode share (schoolchildren)",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "%",
+            "baseline_value": 19.97,
+            "post_value": 51.42
+        },
+        {
+            "name": "Green area expansion",
+            "theme": "Environment",
+            "kpi_theme_id": "4",
+            "unit": "%",
+            "baseline_value": 59.24,
+            "post_value": 4.65
+        }
+    ],
+    "Budapest_2": [
+        {
+            "name": "Active Mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "Counts",
+            "baseline_value": 96.45,
+            "post_value": 75.35
+        }
+    ],
+    "Lyon_1": [
+        {
+            "name": "Active mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "Counts",
+            "baseline_value": 63.9,
+            "post_value": 77.44
+        }
+    ],
+    "Lyon_2": [
+        {
+            "name": "test",
+            "theme": "test",
+            "kpi_theme_id": "test",
+            "unit": "test",
+            "baseline_value": 117.94,
+            "post_value": 70.42
+        }
+    ],
+    "Bologna": [
+        {
+            "name": "Active mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "%",
+            "baseline_value": 30.46,
+            "post_value": 9.77
+        },
+        {
+            "name": "Pedestrian and Cyclist comfort rating",
+            "theme": "road safety",
+            "kpi_theme_id": "2",
+            "unit": "Rating",
+            "baseline_value": 7.16,
+            "post_value": 4.96
+        }
+    ],
+    "Tampere": [
+        {
+            "name": "Active mobility mode share/school travel mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "Counts",
+            "baseline_value": 67.32,
+            "post_value": 104.57
+        },
+        {
+            "name": "Engagement in co-creation",
+            "theme": "Engagement",
+            "kpi_theme_id": "1",
+            "unit": "Counts",
+            "baseline_value": 20.69,
+            "post_value": 56.37
+        }
+    ],
+    "Utrecht": [
+        {
+            "name": "Active mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "Counts",
+            "baseline_value": 75.53,
+            "post_value": 119.63
+        },
+        {
+            "name": "Engagement in co-creation",
+            "theme": "Engagement",
+            "kpi_theme_id": "2",
+            "unit": "%",
+            "baseline_value": 26.23,
+            "post_value": 22.8
+        }
+    ],
+    "Warsaw": [
+        {
+            "name": "Number of participants in co-creation workshops",
+            "theme": "Engagement",
+            "kpi_theme_id": "2",
+            "unit": "Counts",
+            "baseline_value": 92.8,
+            "post_value": 76.64
+        },
+        {
+            "name": "Active mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "%",
+            "baseline_value": 96.96,
+            "post_value": 77.51
+        },
+        {
+            "name": "Active mobility adoption",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "%",
+            "baseline_value": 93.95,
+            "post_value": 89.48
+        }
+    ],
+    "Zagreb": [
+        {
+            "name": "Public space reallocation area",
+            "theme": "Accessibility",
+            "kpi_theme_id": "3",
+            "unit": "m\u00b2",
+            "baseline_value": 31.91,
+            "post_value": 64.92
+        },
+        {
+            "name": "Pedestrian and cyclist comfort index",
+            "theme": "road safety",
+            "kpi_theme_id": "2",
+            "unit": "%",
+            "baseline_value": 0.09,
+            "post_value": 0.2
+        },
+        {
+            "name": "Active mobility mode share",
+            "theme": "Mobility",
+            "kpi_theme_id": "5",
+            "unit": "%",
+            "baseline_value": 4.52,
+            "post_value": 32.53
+        }
+    ]
+}
