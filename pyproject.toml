@@ -12,4 +12,5 @@ dependencies = [
     "seaborn",
     "jupyterlab",
     "pandera",
+    "pydantic",
 ]
