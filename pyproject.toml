@@ -13,4 +13,5 @@ dependencies = [
     "jupyterlab",
     "pandera",
     "pydantic",
+    "geopandas>=1.1.1",
 ]
