@@ -14,4 +14,5 @@ dependencies = [
     "pandera",
     "pydantic",
     "geopandas>=1.1.1",
+    "osmnx>=2.0.6",
 ]
