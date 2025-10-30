@@ -22,5 +22,5 @@ dependencies = [
     "planetary-computer",
     "pystac-client",
     "stackstac",
-    
+    "pyarrow>=22.0.0",
 ]
