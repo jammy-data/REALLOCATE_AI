@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 notebooks/cache/
+
+# Data
+data/interim/
 # IPython
 profile_default/
 ipython_config.py
