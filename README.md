@@ -9,14 +9,31 @@ notebooks/ # Jupyter notebooks
 src/ # Source code for data processing and modeling
 tests/ # Unit tests
 
+
 ## ⚙️ Setup
 
-```bash
+### 1️⃣ Install Dependencies
+
+Create and set up a **virtual environment** using `uv`:
+
+```sh
 uv sync
 ```
-## 🚀 Run Jupyter Lab
-```bash
-uv sync
+
+### 2️⃣ Activate the Environment
+
+```sh
+source .venv/bin/activate
+```
+### 3️⃣ Add the environment to the list of Jupyter kernels
+
+```sh
+python -m ipykernel install --user --name=reallocate_ai --display-name "Python (uv-reallocate_ai)"
+```
+### Install local library
+
+```sh
+uv pip install -e .
 ```
 
 # 🧠 Notes
