@@ -24,4 +24,5 @@ dependencies = [
     "stackstac",
     "pyarrow>=22.0.0",
     "h3>=4.3.1",
+    "sentence-transformers>=5.1.2",
 ]
