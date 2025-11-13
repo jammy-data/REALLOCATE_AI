@@ -11,6 +11,7 @@ load_dotenv(PROJ_ROOT / ".env")
 # Example: access environment variables
 API_KEY = os.getenv("API_KEY")
 DATABASE_URL = os.getenv("DATABASE_URL")
+CKAN_API_KEY = os.getenv("CKAN_API_KEY")
 
 # Data directories
 DATA_DIR = PROJ_ROOT / "data"
